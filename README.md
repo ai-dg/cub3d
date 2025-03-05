@@ -1,4 +1,4 @@
-# 🕹️ cub3D - A 3D Raycasting Engine
+# cub3D - A 3D Raycasting Engine
 
 <img src="https://github.com/user-attachments/assets/dac76719-cb38-4719-bdb4-6ce6ebfb3d75" width="500">
 
