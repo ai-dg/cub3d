@@ -23,10 +23,6 @@ The project was successfully validated with a **125% score**, including all bonu
 ## 📁 Files
 - `cub3d.h` → Contains function prototypes and required macros  
 - `cub3d.c` → Main game loop and rendering logic  
-- `map_parser.c` → Parses and validates the `.cub` map file  
-- `raycasting.c` → Implements raycasting for 3D projection  
-- `movement.c` → Handles player movement and collision detection  
-- `graphics.c` → Manages textures, rendering, and MiniLibX window  
 - `Makefile` → Automates compilation (`all`, `clean`, `fclean`, `re`, `bonus`)  
 
 ## 🎮 **Gameplay & Mechanics**
