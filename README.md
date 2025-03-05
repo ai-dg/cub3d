@@ -98,7 +98,9 @@ make
 
 ### ▶️ **Move & Rotate**
 - **W/A/S/D** → Move forward, left, backward, right  
-- **Left/Right Arrow** → Rotate view  
+- **Left/Right Arrow** → Rotate view
+- **M** → Minimap
+- **Space** → Open doors   
 
 ## 📜 License
 
