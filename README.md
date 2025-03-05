@@ -10,7 +10,7 @@
 It renders a **real-time 3D maze** using raycasting techniques and includes extended **bonus features**.  
 This project was developed as a **team project** with [Christophe Albor Pirame](https://github.com/CronopioSalvaje).  
 
-<img src="https://github.com/user-attachments/assets/729305e2-1866-45ff-9f28-2231843e1a22" width="500">
+<img src="https://github.com/user-attachments/assets/88f72b94-4695-4c4f-ab97-d7c1a8015772" width="500">
 
 ## 🔥 Key Features
 ✅ **Real-time 3D rendering with raycasting**  
