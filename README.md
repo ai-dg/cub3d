@@ -1,7 +1,5 @@
 # cub3D - A 3D Raycasting Engine
 
-<img src="https://github.com/user-attachments/assets/dac76719-cb38-4719-bdb4-6ce6ebfb3d75" width="500">
-
 ![Score](https://img.shields.io/badge/Score-125%25-brightgreen)  
 📌 **42 School - Graphics & Raycasting Project**  
 
