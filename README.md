@@ -21,9 +21,9 @@ This project was developed as a **team project** with [Christophe Albor Pirame](
 The project was successfully validated with a **125% score**, including all bonus features. 🎉
 
 ## ▌ Files
-- `cub3d.h` → Contains function prototypes and required macros  
-- `cub3d.c` → Main game loop and rendering logic  
-- `Makefile` → Automates compilation (`all`, `clean`, `fclean`, `re`, `bonus`)  
+- `Includes/cube3d.h` → Contains function prototypes and required macros  
+- `Srcs/cube3d.c` → Main game loop and rendering logic  
+- `Makefile` → Automates compilation (`all`, `clean`, `fclean`, `re`)  
 
 ## ▌ **Gameplay & Mechanics**
 1. The player starts in a **3D maze** with walls and open spaces.
@@ -34,9 +34,8 @@ The project was successfully validated with a **125% score**, including all bonu
 
 ### ■ **Map Format (`.cub` files)**
 A valid `.cub` map must:
-- Be **rectangular**.
 - Be **surrounded by walls (`1`)**.
-- Contain at least one **player spawn point** (`N`, `S`, `E`, or `W`).
+- Contain exactly one **player spawn point** (`N`, `S`, `E`, or `W`).
 - Define **textures and colors** for walls, floor, and ceiling.
 
 **Example map:**
